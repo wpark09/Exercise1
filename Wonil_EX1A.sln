@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wonil_EX1A", "Wonil_EX1A\Wonil_EX1A.csproj", "{17926DCB-5ED3-4609-9471-C5E2C603509B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleCalculations", "ClassLibrary1\CircleCalculations.csproj", "{3F815A05-0B37-4374-932D-9A1C72299419}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{17926DCB-5ED3-4609-9471-C5E2C603509B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17926DCB-5ED3-4609-9471-C5E2C603509B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17926DCB-5ED3-4609-9471-C5E2C603509B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F815A05-0B37-4374-932D-9A1C72299419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F815A05-0B37-4374-932D-9A1C72299419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F815A05-0B37-4374-932D-9A1C72299419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F815A05-0B37-4374-932D-9A1C72299419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
